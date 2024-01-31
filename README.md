@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS Developer
 -------------
 
-I develop projects on SwiftUI. I'm working on becoming an iOS DEveloper. I love making Mobile Applications.
+I develop projects on SwiftUI. I'm working on becoming an iOS Developer. I love making Mobile Applications.
 
 * 🌍  I'm based in Gebze/Kocaeli
 * ✉️  You can contact me at [sofiogluss@gmail.com](mailto:sofiogluss@gmail.com)
