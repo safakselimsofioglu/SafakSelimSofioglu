@@ -9,7 +9,8 @@ I develop projects on SwiftUI. I'm working on becoming an iOS Developer. I love 
 * 🌍  I'm based in Gebze/Kocaeli
 * ✉️  You can contact me at [sofiogluss@gmail.com](mailto:sofiogluss@gmail.com)
 * 🧠  I'm learning Swift, SwiftUI
-* ✅CoreData
+* ✅ CoreData  ✅ Alamofire
+* ✅ SQLite    ✅ Firestore
 
 ### Skills
 
